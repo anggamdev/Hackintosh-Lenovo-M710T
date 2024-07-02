@@ -1,5 +1,5 @@
 # Lenovo ThinkCentre M710 Tower Version | Hackintosh OpenCore
-[![H](https://github.com/anggamdev/Lenovo-M910s-Hackintosh/blob/main/Screenshot/Lenovo%20ThinkCentre%20M910s.png?raw=true "H")](https://github.com/anggamdev/Lenovo-M910s-Hackintosh/blob/main/Screenshot/Lenovo%20ThinkCentre%20M910s.png?raw=true "H")
+[![H](https://github.com/anggamdev/Hackintosh-Lenovo-M710T/blob/main/images/screenshot/hero.png)](https://github.com/anggamdev/Hackintosh-Lenovo-M710T/blob/main/images/screenshot/hero.png)
 ### EFI [Lenovo Thinkcentre M910s](https://www.lenovo.com/id/in/desktops/thinkcentre/m-series-sff/ThinkCentre-M910s/p/11TC1MD910S?)
 
 ### Boot :
